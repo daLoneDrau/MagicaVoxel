@@ -1,0 +1,158 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Avalon/Hexes/Valley/Awful Valley.vox
+#	new file:   Avalon/Hexes/base.vox
+#	new file:   Avalon/Hexes/grass/grass_a.vox
+#	new file:   Avalon/Hexes/grass/grass_b.vox
+#	new file:   Avalon/Hexes/grass/rock.vox
+#	new file:   Avalon/Hexes/micro_base.vox
+#	new file:   Avalon/Hexes/micro_grass.vox
+#	new file:   Avalon/Hexes/micro_grass_road.vox
+#	new file:   Avalon/Hexes/mini_base.vox
+#	new file:   Barbarian Prince/Characters/1.vox
+#	new file:   Barbarian Prince/Characters/2.vox
+#	new file:   Barbarian Prince/Hexes/blank hex.vox
+#	new file:   Barbarian Prince/Hexes/blank square.vox
+#	new file:   Barbarian Prince/Hexes/country_river_start.vox
+#	new file:   Barbarian Prince/Hexes/countryside.vox
+#	new file:   Barbarian Prince/Hexes/countryside_river_0.vox
+#	new file:   Barbarian Prince/Hexes/countryside_river_0_1.vox
+#	new file:   Barbarian Prince/Hexes/countryside_river_0_1_5.vox
+#	new file:   Barbarian Prince/Hexes/countryside_river_0_5.vox
+#	new file:   Barbarian Prince/Hexes/countryside_river_3.vox
+#	new file:   Barbarian Prince/Hexes/countryside_river_3_4.vox
+#	new file:   Barbarian Prince/Hexes/hills.vox
+#	new file:   Barbarian Prince/Hexes/house1.vox
+#	new file:   Barbarian Prince/Hexes/house2.vox
+#	new file:   Barbarian Prince/Hexes/house3.vox
+#	new file:   Barbarian Prince/Hexes/ogon.vox
+#	new file:   Barbarian Prince/Hexes/swamplands.vox
+#	new file:   Barbarian Prince/Hexes/tileset.vox
+#	new file:   Barbarian Prince/Hexes/water.vox
+#	new file:   Barbarian Prince/Hexes/water_hex.vox
+#	new file:   Figure Drawing/Muscle Mannequin/arm_3px bicep.vox
+#	new file:   Figure Drawing/Muscle Mannequin/male_muscle_half.0.1.vox
+#	new file:   Figure Drawing/Muscle Mannequin/male_muscle_half.vox
+#	new file:   Figure Drawing/Muscle Mannequin/msc.m.0.0.vox
+#	new file:   Figure Drawing/Muscle Mannequin/msc.m.0.1.vox
+#	new file:   Figure Drawing/geometric mannequin.vox
+#	new file:   Figure Drawing/geometric mannequin_half.vox
+#	new file:   Figure Drawing/mann_arm.vox
+#	new file:   Figure Drawing/mann_thigh_male.vox
+#	new file:   Figure Drawing/mann_tors.vox
+#	new file:   Figure Drawing/mann_ua.vox
+#	new file:   Figure Drawing/mann_ua_thick.vox
+#	new file:   Figure Drawing/mann_ua_thin_rot.vox
+#	new file:   Figure Drawing/stick figure 3d.vox
+#	new file:   Figure Drawing/stick figure flat.vox
+#	new file:   HKCP/Female_head.vox
+#	new file:   HKCP/Male_Muscular.vox
+#	new file:   HKCP/Male_Normal.vox
+#	new file:   HKCP/Male_Template_Base.vox
+#	new file:   LPC/Male.vox
+#	new file:   LPC/Muscular_M.vox
+#	new file:   Lodoss/Placeables/pottery.vox
+#	new file:   Lodoss/Tiles/dirt_15.vox
+#	new file:   Lodoss/Tiles/dirt_grass_2.vox
+#	new file:   Lodoss/Tiles/grass_0a.vox
+#	new file:   Lodoss/Tiles/grass_long_b.vox
+#	new file:   Practice/angles.vox
+#	new file:   RoA/Characters/2x/Dwarf_F.vox
+#	new file:   RoA/Characters/2x/Harpy.vox
+#	new file:   RoA/Characters/Aristocrat.vox
+#	new file:   RoA/Characters/Bailiff.vox
+#	new file:   RoA/Characters/Beggar.vox
+#	new file:   RoA/Characters/Dwarf NPC/Dwarf.vox
+#	new file:   RoA/Characters/Dwarf_F.vox
+#	new file:   RoA/Characters/Elf NPC/Elf NPC.vox
+#	new file:   RoA/Characters/Fighter_T.vox
+#	new file:   RoA/Characters/Fighter_arms.vox
+#	new file:   RoA/Characters/Fighter_orig.vox
+#	new file:   RoA/Characters/Hunter_F.vox
+#	new file:   RoA/Characters/Hunter_M.vox
+#	new file:   RoA/Characters/NPC/Thorwalian/2d back.vox
+#	new file:   RoA/Characters/NPC/Thorwalian/2d front.vox
+#	new file:   RoA/Characters/NPC/Thorwalian/2d left.vox
+#	new file:   RoA/Characters/NPC/Thorwalian/composite.vox
+#	new file:   RoA/Characters/Parts/Arms_Male.vox
+#	new file:   RoA/Characters/Parts/Head_Male.vox
+#	new file:   RoA/Characters/Parts/Jester.vox
+#	new file:   RoA/Characters/Parts/Leg_Lower_Boot.vox
+#	new file:   RoA/Characters/Parts/Leg_Lower_Boot_Thick.vox
+#	new file:   RoA/Characters/Parts/Leg_Lower_Female_Shoe.vox
+#	new file:   RoA/Characters/Parts/Leg_Lower_Female_Shoe_Thick.vox
+#	new file:   RoA/Characters/Parts/Leg_Lower_Nude.vox
+#	new file:   RoA/Characters/Parts/Leg_Upper_Female_Nude.vox
+#	new file:   RoA/Characters/Parts/Leg_Upper_Pants.vox
+#	new file:   RoA/Characters/Parts/Robber.vox
+#	new file:   RoA/Characters/Parts/Torso_Male_Thin.vox
+#	new file:   RoA/Characters/Warrior Male PC/Warrior.vox
+#	new file:   RoA/Characters/Warrior_M.vox
+#	new file:   RoA/Items/Axe.vox
+#	new file:   RoA/Items/Shield.vox
+#	new file:   RoA/Items/Sword.vox
+#	new file:   RoA/Monsters/Daemon/Daemon.vox
+#	new file:   RoA/Monsters/Goblin/Goblin_T.vox
+#	new file:   RoA/Monsters/Goblin/Goblin_body.vox
+#	new file:   RoA/Monsters/Goblin/Goblin_boots.vox
+#	new file:   RoA/Monsters/Goblin/Goblin_legs.vox
+#	new file:   RoA/Monsters/Goblin/Goblin_legs_unfinished.vox
+#	new file:   RoA/Monsters/Goblin/Goblin_orig.vox
+#	new file:   RoA/Monsters/Goblin/scratchpad.vox
+#	new file:   RoA/Monsters/Goblin_arm.vox
+#	new file:   RoA/Monsters/Orc.vox
+#	new file:   RoA/Monsters/Orc_Arm.vox
+#	new file:   RoA/Monsters/Orc_new.vox
+#	new file:   RoA/Monsters/Robber.vox
+#	new file:   RoA/Monsters/Robber_old.vox
+#	new file:   RoA/Monsters/Skeleton/skel.0.0.vox
+#	new file:   RoA/Monsters/Wood Sprite/Wood Sprite.vox
+#	new file:   RoA/Monsters/Zombie/Zombie.vox
+#	new file:   RoA/NPCs/Streuner.vox
+#	new file:   RoA/NPCs/base.vox
+#	new file:   RoA/Scenes/Dungeon_Scene.vox
+#	new file:   RoA/Tiles/Dungeon_Floor_1.vox
+#	new file:   RoA/Warrior_F.vox
+#	new file:   Sword and Sorcery/shipright base.vox
+#	new file:   Ultima IV (VGA)/Mobs/basic.vox
+#	new file:   Ultima IV (VGA)/Mobs/guard.vox
+#	new file:   Ultima IV (VGA)/Scenes/bridge.vox
+#	new file:   Ultima IV (VGA)/Tiles/blue brick floor.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior east end northern support.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior east end southern support.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior east end.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior northern support.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior southern support.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior west end northern support.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior west end southern support.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior west end.vox
+#	new file:   Ultima IV (VGA)/Tiles/bridge interior.vox
+#	new file:   Ultima IV (VGA)/Tiles/bushes.vox
+#	new file:   Ultima IV (VGA)/Tiles/grasslands.vox
+#	new file:   Ultima IV (VGA)/Tiles/rocks.vox
+#	new file:   Ultima IV (VGA)/Tiles/water_shallow.vox
+#	new file:   Ultima V (VGA)/brick floor.vox
+#	new file:   Ultima V (VGA)/castle door.vox
+#	new file:   Ultima V (VGA)/castle wall.vox
+#	new file:   Ultima V (VGA)/fountain.vox
+#	new file:   Uukrul/Tiles/door.vox
+#	new file:   Uukrul/Tiles/wall.vox
+#	new file:   udemy/chr_rig.vox
+#	new file:   udemy/dracula.vox
+#	new file:   udemy/iron-man.vox
+#	new file:   udemy/man-base.vox
+#	new file:   udemy/man-blank.vox
+#	new file:   udemy/simple-character-blueprint.vox
+#	new file:   udemy/spiderman-small.vox
+#	new file:   udemy/superman.vox
+#	new file:   udemy/woman-base-B.vox
+#	new file:   udemy/woman-base.vox
+#	new file:   udemy/woman-blank.vox
+#	new file:   udemy/wonder woman.vox
+#	new file:   udemy/zombie-boy.vox
+#
