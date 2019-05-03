@@ -14,6 +14,6 @@
 
 When Exporting to .OBJ:
 
-Do not change the name of the save files.  MagicaVoxel saves the texture file names inside its .OBJ export, and is not flexible.
+FILE NAMES CANNOT INCLUDE A SPACE. Do not change the name of the save files.  MagicaVoxel saves the texture file names inside its .OBJ export, and is NOT flexible.
 
 Zip up the .OBJ, .MTL, and .PNG files for export to Mixamo.
